@@ -30,3 +30,5 @@
 ## FAQs
 
 * [⁉ Frequently asked questions](faqs/frequently-asked-questions.md)
+* [📢 Contract Addresses](faqs/contract-addresses.md)
+* [🔗 Community & Useful Links](faqs/community-and-useful-links.md)
