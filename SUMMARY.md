@@ -1,13 +1,17 @@
 # Table of contents
 
-* [Welcome!](README.md)
+* [💹 BlockNG Protocol : Build the next generation synthetic currency](README.md)
 
-## The Company
+## 👾 How it works
 
-* [Vision and Values](the-company/vision-and-values.md)
-* [Meet the Team!](the-company/meet-the-team.md)
+* [🧑🤝🧑 Self-Distributing Social Network System (SSNS)](how-it-works/ssns.md)
+* [🛰 BEAM & CIVIL BEAM](how-it-works/beam.md)
+* [🤠 Proof Of LawPunks (PoPuk)](how-it-works/popuk/README.md)
+  * [👿 Dungeon](how-it-works/popuk/dungeon.md)
+  * [🙀 Cry](how-it-works/popuk/cry.md)
+* [🚬 Punks Market (SOUK)](how-it-works/souk.md)
+* [💲 Stable Coin Lending Protocol (PAWN)](how-it-works/pawn.md)
 
-## The Formal Stuff
+## 👻 NFTs
 
-* [Requesting Time Off](the-formal-stuff/requesting-time-off.md)
-* [Filing Expenses](the-formal-stuff/filing-expenses.md)
+* [Page 1](nfts/page-1.md)

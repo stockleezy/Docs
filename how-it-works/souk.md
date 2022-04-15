@@ -1,20 +1,10 @@
 ---
 cover: >-
-  https://images.unsplash.com/photo-1552664730-d307ca884978?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2970&q=80
+  https://images.unsplash.com/photo-1586473219010-2ffc57b0d282?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwzfHxqb2J8ZW58MHx8fHwxNjUwMDE2MTM1&ixlib=rb-1.2.1&q=85
 coverY: 0
 ---
 
-# Vision and Values
-
-## Our Vision
-
-{% hint style="info" %}
-**Good to know:** a good vision statement shows the long-term goals of the company without getting too deep into strategy, implementation, or product specifics.
-{% endhint %}
-
-Our company vision is to **be the authoritative reference point for environmentally conscious buyers** and to **encourage more sustainable business practices** through curating beautiful, practical, consciously-produced products.
-
-## Our Values
+# 🚬 Punks Market (SOUK)
 
 {% hint style="info" %}
 **Good to know:** company values are statements about how you approach work; how you treat colleagues, customers and users; and what your company stands for.
