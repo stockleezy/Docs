@@ -2,7 +2,7 @@
 
 * [💹 BlockNG Protocol : Build the next generation synthetic currency](README.md)
 
-## 👾 How it works
+## How it works
 
 * [🧑🤝🧑 Self-Distributing Social Network System (SSNS)](how-it-works/ssns.md)
 * [🛰 BEAM & CIVIL BEAM](how-it-works/beam.md)
@@ -11,7 +11,22 @@
   * [🙀 Cry](how-it-works/popuk/cry.md)
 * [🚬 Punks Market (SOUK)](how-it-works/souk.md)
 * [💲 Stable Coin Lending Protocol (PAWN)](how-it-works/pawn.md)
+* [🌐 The LAW DAO](how-it-works/dao/README.md)
+  * [🧸 How to create a BEAM Pool](how-it-works/dao/how-to-create-a-beam-pool.md)
+  * [🥖 Bribe & Receive Bribe](how-it-works/dao/bribe-and-receive-bribe.md)
 
-## 👻 NFTs
+## TOKEN ECONOMICS
 
-* [Page 1](nfts/page-1.md)
+* [🧊 LAW](token-economics/law.md)
+* [#⃣ lawETP](token-economics/lawetp.md)
+* [💰 lawUSD](token-economics/lawusd.md)
+
+## NFTs
+
+* [🤖 LawPunks](nfts/lawpunks.md)
+* [👻 Ghost LawPunks](nfts/ghost-lawpunks.md)
+* [🤜 LawRights](nfts/lawrights.md)
+
+## FAQs
+
+* [⁉ Frequently asked questions](faqs/frequently-asked-questions.md)
