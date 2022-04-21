@@ -7,17 +7,21 @@ coverY: 0
 # 🧑🤝🧑 Self-Distributing Social Network System (SSNS)
 
 {% hint style="info" %}
-**Good to know:** company values are statements about how you approach work; how you treat colleagues, customers and users; and what your company stands for.
+**Tips:** SSNS not in effect for CIVIL BEAM, in order to ensure the ultimate justice of the democratic system.
 {% endhint %}
 
-### Be Compassionate
+### Exclusivity
 
-We treat everyone we encounter with compassion, seeing the humanity behind their problems and experiences.
+BLOCKNG's referral reward system is driven by Self-Distributing Social Network System (SSNS), which has completely rewritten the boring promotion system.
 
-### Be Mindful
+### Make LAW With Your Friends
 
-We do not take advantage of our users' attention and adopt mindful working practices so that we can create safe spaces both in our working environment and in our products themselves.
+* Any citizen within the BLOCKNG system can create his own social network by creating an invitation code.
+* When a brand new citizen (with no economic activity in the system) uses an invitation code for an activity, an irrevocable contractual relationship will be established.
+* Once the contract is in force, the invitee will generate an additional 1-10% of the profit, which can be withdrawn by the inviter at any time.
+* Once the contract is in force, it is impossible to change the contractual relationship by using other invitation codes, or by using special contract interfaces for illegal operations.
 
-### Research First
+### Refer Reward Percentage
 
-We challenge our own and others' assumptions through qualitative and quantitative research. Not sure about an idea? Test it.
+* BEAM pools with no fees have 10% referral bonus
+* BEAM pools with **fees** only have 1% referral bonus (please be considerate of your friends)

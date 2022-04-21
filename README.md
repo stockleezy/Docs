@@ -18,6 +18,10 @@ Aims to connect every participant in the classical blockchain through project co
 
 
 
+**Protocol Overview**
+
+![BlockNG Protocol](<.gitbook/assets/BlockNG Protocol (5).png>)
+
 **BlockNG Protocol Tokens**
 
 * Store of Value Token : LAW
