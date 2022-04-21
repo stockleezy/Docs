@@ -11,7 +11,7 @@
   * [🙀 Cry](how-it-works/popuk/cry.md)
 * [🚬 Punks Market (SOUK)](how-it-works/souk.md)
 * [💲 Stable Coin Lending Protocol (PAWN)](how-it-works/pawn.md)
-* [🌐 The LAW DAO](how-it-works/dao/README.md)
+* [🌐 The LAWSwap & DAO](how-it-works/dao/README.md)
   * [🧸 How to create a BEAM Pool](how-it-works/dao/how-to-create-a-beam-pool.md)
   * [🥖 Bribe & Receive Bribe](how-it-works/dao/bribe-and-receive-bribe.md)
 
