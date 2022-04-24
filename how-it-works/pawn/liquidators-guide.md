@@ -51,6 +51,20 @@ Current liquidation is only available to a limited number of addresses.
 ```
 //
 interface Market {
+
+    function onlyWhiteLiquidator() external view returns (bool);
+    //current is true, will open when the price of LAW stabilizes
+    
+    function positionInfo(address user) external view
+    returns 
+    (uint256 deposited, 
+        uint256 depositedShare, 
+        uint256 depositedValue, 
+        uint256 borrowed, 
+        uint256 borrowedPart, 
+        uint256 borrowedShare
+    )
+
     function liquidate(
         address[] calldata users, // user need to be liquidated
         uint256[] calldata maxBorrowParts, // user borrow part
@@ -58,15 +72,7 @@ interface Market {
         ISwapper swapper // could be zero if not use swapper
     ) external;
     
-    function positionInfo(address user) external view
-        returns 
-        (uint256 deposited, 
-        uint256 depositedShare, 
-        uint256 depositedValue, 
-        uint256 borrowed, 
-        uint256 borrowedPart, 
-        uint256 borrowedShare
-        )
+
 }
 ```
 

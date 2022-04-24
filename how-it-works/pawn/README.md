@@ -12,6 +12,14 @@ PAWN is a forked protocol of Abracadabra.
 
 PAWN is a lending protocol that uses many sBCH assets (current WBCH and LAW) as collateral to borrow a USD pegged stablecoin (lawUSD), that can be used as any other traditional stablecoin.
 
+### lawUSD Value Stabilizer
+
+![](<../../.gitbook/assets/图片 (3).png>)
+
+The price stability of lawUSD is achieved by the protocol’s lawUSD Value Stabilizer, which incentivizes the minting or burning of lawETP through arbitrage opportunities. Arbitrage occurs when a user profits from price differences between markets.
+
+PAWN enables users to always exchange $1 worth of lawETP for lawUSD and vice versa, incentivizing users to maintain the price of lawUSD.
+
 
 
 ### Borrow/Repay
