@@ -18,8 +18,6 @@ The core BEAM pool is the only way to produce LAW in the early days, and it is s
 
 After all legacy pools are closed, **All The LPs must be in LawSwap.**
 
-
-
 | Pool               | Stake             | Fee  | Ref Reward |
 | ------------------ | ----------------- | ---- | ---------- |
 | CARNOT HEAT ENGINE | LAW-BCH LP        | 0 %  | 10 %       |
@@ -29,8 +27,6 @@ After all legacy pools are closed, **All The LPs must be in LawSwap.**
 | POST KEYNESIAN     | lawUSD-BCH LP     | 1 %  | 1 %        |
 | EDENS ZERO         | BCH               | 0 %  | 10 %       |
 | RENEWABLE ENERGY   | lawETP            | 10 % | 1 %        |
-
-
 
 ### CIVIL BEAM Pools (Under Development)
 
@@ -42,6 +38,6 @@ After all legacy pools are closed, **All The LPs must be in LawSwap.**
 The entire reward of RENEWABLE ENERGY Pool comes from the ecological cycle.
 {% endhint %}
 
-![Allocation](../.gitbook/assets/图片.png)
+![Allocation](<../.gitbook/assets/图片 (2).png>)
 
 ###

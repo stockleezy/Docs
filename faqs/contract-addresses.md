@@ -40,3 +40,7 @@ WBCHMarket : [0x3F562957b199d6362B378dBa5e3b45EE6fe77779](https://www.smartscan.
 
 LAWMarket : [0xd46e5a9Cd7A55Bf8d3582Ff66218aD3e63462506](https://www.smartscan.cash/address/0xd46e5a9Cd7A55Bf8d3582Ff66218aD3e63462506)
 
+MasterContract : 0xA01d276d9e8D356AdaBAda8b60916489BD4f51a8
+
+
+
