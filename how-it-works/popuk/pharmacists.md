@@ -25,6 +25,10 @@ The Pharmacists skill allows LawPunk to have the ability to make pharmaceuticals
 * First, make sure all your LawPunks are already hard at work in the PoPuk pool (we recommend a five-punks squad)
 * Once your LawPunk is in Staking status, you can find the corresponding LawPunks in 「MY PROOF」, fill in the item ID and use the item.
 
+{% hint style="info" %}
+Pharmaceutical should not be used in combination, as this is illegal and detrimental to health.
+{% endhint %}
+
 #### Item Market
 
 We recommend Oasis.Cash.
