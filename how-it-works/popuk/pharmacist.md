@@ -33,7 +33,7 @@ Pharmaceutical should not be used in combination, as this is illegal and detrime
 
 We recommend Oasis.Cash.
 
-Link :
+Link : [https://oasis.cash/collection/0x58437B3A91db2F9e477F4b329c812Dff25F03357](https://oasis.cash/collection/0x58437B3A91db2F9e477F4b329c812Dff25F03357)
 
 #### Duration of the effect
 
