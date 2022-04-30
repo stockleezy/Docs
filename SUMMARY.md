@@ -9,7 +9,7 @@
 * [🤠 Proof Of LawPunks (PoPuk)](how-it-works/popuk/README.md)
   * [👿 Dungeon](how-it-works/popuk/dungeon.md)
   * [🙀 Cry](how-it-works/popuk/cry.md)
-  * [💊 Pharmacists](how-it-works/popuk/pharmacists.md)
+  * [💊 Pharmacist](how-it-works/popuk/pharmacist.md)
 * [🚬 Punks Market (SOUK)](how-it-works/souk.md)
 * [💲 Stable Coin Lending Protocol (PAWN)](how-it-works/pawn/README.md)
   * [㊙ Liquidator's Guide](how-it-works/pawn/liquidators-guide.md)
